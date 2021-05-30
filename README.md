@@ -27,8 +27,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 🛠 &nbsp; I’m currently working on  : Java , Spring Boot , Rest API's , Thymleaf .
 - 🚀 &nbsp; I’m currently learning  : React JS , React Native .
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shashankgarg7578).
-- 💬 &nbsp; Ask me about anything [here](https://www.instagram.com/Shashank_garg7578/)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shashankgarg7578/)
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/shashank-garg-1471aa182/)! I am happy to help.
 - 👾 &nbsp; Fun fact: I love to play realistic games
 - 📫 &nbsp; How to reach me: Shashankgarg12932@gmail.com.
 
@@ -43,7 +43,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Spotify Playing 🎧
 
 
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pathakabhi24 Spotify Playing" width="350" />
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 
 
 ### 🔨 Languages and Tools:
