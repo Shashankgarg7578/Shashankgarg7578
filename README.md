@@ -14,7 +14,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://.medium.com/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pathakabhi24&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Shashankgarg7578&style=flat-square&color=0088cc)
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Abdul Kalam Technical University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently learing Java , Spring Boot , Rest API's , React JS 🕸️  and working on strong my knowledge on programming world 🤓.
 
