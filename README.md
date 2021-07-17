@@ -50,8 +50,27 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="left"> <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://static.javatpoint.com/images/logo/javahome.png" alt="Java" width="40" height="40"/>  </a> <a href="https://www.javatpoint.com/spring-boot-tutorial" target="_blank"> <img src="https://static.javatpoint.com/springboot/images/spring-boot-home.jpg" alt="Spring Boot" width="40" height="40"/> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> <a href="https://www.javatpoint.com/restful-web-services-tutorial" target="_blank"> <img src="https://static.javatpoint.com/tutorial/restful-web-services/images/restful-tutorial.png" alt="Restfull API" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   </p>
 
+  ## 🔥 Streak stats
 
-#
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/Shashankgarg7578/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shashankgarg7578's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankgarg7578&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shashankgarg7578's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shashankgarg7578&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  </p> 
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <div align="center">
 
