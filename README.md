@@ -25,8 +25,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on  : Java , Spring Boot , GIT, Rest API's , Thymleaf , React JS , React Native .
-- 🚀 &nbsp; I’m currently learning  : Data Structures , AWS.
+- 🛠 &nbsp; I’m currently working on  : Java , Spring Boot , GIT, Rest API's , Thymleaf , React JS , React Native.
+- 🚀 &nbsp; I’m currently learning  : Data Structures , System Design.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shashankgarg7578/)
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/shashank-garg-1471aa182/)! I am happy to help.
 - 👾 &nbsp; Fun fact: I love to play realistic games
